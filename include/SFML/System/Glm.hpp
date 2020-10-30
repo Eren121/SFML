@@ -23,7 +23,7 @@
 ////////////////////////////////////////////////////////////
 
 #ifndef SFML_GLM_GPP
-#define SFML_GML_HPP
+#define SFML_GLM_HPP
 
 // Required by SFML unit tests
 #define GLM_FORCE_CTOR_INIT
