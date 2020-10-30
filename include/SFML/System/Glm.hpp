@@ -22,7 +22,7 @@
 //
 ////////////////////////////////////////////////////////////
 
-#ifndef SFML_GLM_GPP
+#ifndef SFML_GLM_HPP
 #define SFML_GLM_HPP
 
 // Required by SFML unit tests
