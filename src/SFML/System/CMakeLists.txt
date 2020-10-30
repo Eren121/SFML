@@ -9,6 +9,7 @@ set(SRC
     ${SRCROOT}/Err.cpp
     ${INCROOT}/Err.hpp
     ${INCROOT}/Export.hpp
+    ${INCROOT}/Glm.hpp
     ${INCROOT}/InputStream.hpp
     ${SRCROOT}/Lock.cpp
     ${INCROOT}/Lock.hpp
@@ -33,9 +34,7 @@ set(SRC
     ${INCROOT}/Utf.hpp
     ${INCROOT}/Utf.inl
     ${INCROOT}/Vector2.hpp
-    ${INCROOT}/Vector2.inl
     ${INCROOT}/Vector3.hpp
-    ${INCROOT}/Vector3.inl
     ${SRCROOT}/FileInputStream.cpp
     ${INCROOT}/FileInputStream.hpp
     ${SRCROOT}/MemoryInputStream.cpp
